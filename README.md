@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+  <content>
 # Sappenin'
 ## Authors
 Siddhant K Tandon
@@ -30,6 +30,6 @@ Users are initially presented with a splash screen, where they can log in or bro
 3. EventViewController
 4. DistanceToLocationViewController
 5. AddEventViewController
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+</content>
+  <tabTrigger></tabTrigger>
 </snippet>
