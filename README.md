@@ -14,8 +14,7 @@ Ever been sitting on home on a Friday night and had no idea what to do? Sappenin
 2. Filter by the number of people going to an event.
 3. Get a summary of the location you're planning to visit.
 4. Filter by distance.
-6. Present a map view of the place in a 'map view' and a 'Get Me Directions' button to route using Apple Maps.
-7. Advertise your own event on the app.
+5. Present a map view of the place in a 'map view' and a 'Get Me Directions' button to route using Apple Maps.
 
 ## Control Flow
 
